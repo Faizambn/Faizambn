@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
-<p align="left" > &nbsp; <img src="https://komarev.com/ghpvc/?username=Faizambn&color=purple" /> </p>
+<p align="left" > &nbsp; <img src="https://komarev.com/ghpvc/?username=Faizambn&color=blue" /> </p>
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
                                                
