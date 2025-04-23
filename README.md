@@ -12,12 +12,12 @@
  About Me 
 <a href="#--about-me--">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Faizambn&data=followers,repositories,stars,commits&theme=dark)]([https://www.linkedin.com/in/fawad-ahmed-mir-9621762ba/](https://www.linkedin.com/in/faiza-mobeen-21131b2a3 utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Faizambn&data=followers,repositories,stars,commits&theme=dark)]([http://linkedin.com/in/faiza-mobeen-21131b2a3](http://linkedin.com/in/faiza-mobeen-21131b2a3))
 
 </h1>
 
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
-<p align="left" > &nbsp; <img src="https://komarev.com/ghpvc/?username=Faizambn&color=magenta" /> </p>
+<p align="left" > &nbsp; <img src="https://komarev.com/ghpvc/?username=Faizambn&color=lime" /> </p>
 <p align="center"><img src="arrow.gif" alt="Arrow"/></p>
 
                                                
